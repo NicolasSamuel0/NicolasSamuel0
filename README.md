@@ -16,7 +16,7 @@ Atualmente busco minha primeira oportunidade na área de tecnologia, onde eu pos
 - 📊 Experiência prática com **SQL, Power BI, Excel/VBA e automações**
 - 🧠 Perfil analítico, organizado e focado em resolução de problemas
 - 🤝 Familiaridade com **metodologias ágeis**
-- 📍 Brasil
+- 📍 Minas Gerais, Brasil
 
 ---
 
@@ -76,10 +76,10 @@ Atualmente busco minha primeira oportunidade na área de tecnologia, onde eu pos
 ## Contato
 
 <div align="left">
-  <a href="mailto:nicolasrm444@gmail.com">
+  <a href="mailto:nicolassam444@gmail.com">
     <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://www.linkedin.com/in/nicolas-samuel-ribas" target="_blank">
+  <a href="[https://www.linkedin.com/in/nicolas-samuel-riba](https://www.linkedin.com/in/nicolas-samuel-ribas-691603353/)s" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/nicolassamuel0" target="_blank">
